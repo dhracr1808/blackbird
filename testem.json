@@ -1,0 +1,4 @@
+{
+  "framework": "jasmine2",
+  "files": ["test/**.js"]
+}
